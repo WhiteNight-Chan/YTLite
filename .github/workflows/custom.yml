@@ -179,7 +179,7 @@ jobs:
           git clone --quiet --depth=1 https://github.com/castdrian/Gonerino.git
           git clone --quiet --depth=1 https://github.com/PoomSmart/Return-YouTube-Dislikes.git
           git clone --quiet --depth=1 https://github.com/PoomSmart/YouGroupSettings.git
-          git clone --quiet --depth=1 https://github.com/bhackel/YouLoop.git
+          git clone --quiet --depth=1 https://github.com/WhiteNight-Chan/YouLoop.git
           git clone --quiet --depth=1 https://github.com/PoomSmart/YouPiP.git
           git clone --quiet --depth=1 https://github.com/PoomSmart/YouQuality.git
           : git clone --quiet --depth=1 https://github.com/WhiteNight-Chan/YTAppVersionSpoofer.git
